@@ -6,5 +6,5 @@ This *fake* portfolio is destined to illustrate some fundamental HTML + CSS conc
 
 # 🚀 Live versions
 
-A [Live version of the app](https://myelectricsheep.github.io/john-dev-portfolio-css-practice/) is available here. 
+A [Live version of the app](https://myelectricsheep.github.io/john-dev-portfolio-css-practice/) is available here.  
 A [Codesandbox](https://codesandbox.io/s/johndev-v2-y32jy) you can edit and play with can be found here
